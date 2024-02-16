@@ -1,4 +1,4 @@
-use ferris_says::say; // from the previous step
+use ferris_says::say;
 use std::io::{stdout, BufWriter};
 
 fn main() {
